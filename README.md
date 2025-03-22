@@ -6,7 +6,7 @@
 
 Implementar uma aplicação para controlar nossa conta bancária, seja ela virtual ou não. 
 
-## 🔨 Objetivos do projeto
+## Objetivos do projeto
 
 - Criar um cabeçalho inicial com os dados do cliente (Nome, Tipo da Conta e Saldo)
 - Criar um menu que descreve as operações. Aqui você pode escolher o nome de método que mais lhe agradar, como *saca* (ou *transfere*, *enviaPix*) para simular a **retirada** de valores da conta
